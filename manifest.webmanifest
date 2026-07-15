@@ -1,0 +1,1 @@
+{"name":"Local Recorder","short_name":"LocalRecorder","description":"Grabación, transcripción y exportación 100% local en el navegador","start_url":"/local-recorder-public/","display":"standalone","background_color":"#ffffff","theme_color":"#1d4ed8","lang":"en","scope":"/local-recorder-public/","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
