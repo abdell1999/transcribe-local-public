@@ -1,2 +1,1 @@
-# local-recorder-public
-Local recorder - public version
+# Local recorder (by abdell1999)
