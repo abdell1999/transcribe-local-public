@@ -1,1 +1,1 @@
-# Local recorder (by abdell1999)
+# Transcribe local (by abdell1999)
