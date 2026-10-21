@@ -1,0 +1,11 @@
+# Modelos Locales (TranscribeLocal)
+
+Coloca aquí tus modelos descargados de Hugging Face si deseas que la aplicación los cargue directamente desde tu disco local sin descargarlos de internet.
+
+Estructura esperada:
+public/models/<id-del-modelo>/
+Ejemplo:
+public/models/onnx-community/whisper-tiny/
+  ├── config.json
+  ├── model.onnx
+  └── tokenizer.json
